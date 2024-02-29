@@ -5,9 +5,11 @@
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/iRKey)
 ![](https://visitcount.itsvg.in/api?id=RKeyIT&icon=5&color=3)
 
+>[!IMPORTANT]
 Feel free to get in touch with me by following the badges below. Who knows, maybe I'm waiting for your message exactly :wink:
-
 ---
+
+<h2>Some visual info about me:</h2>
 
 ![React](https://img.shields.io/badge/react-%23087ea4.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Redux](https://img.shields.io/badge/redux-%23764abc.svg?style=for-the-badge&logo=redux&logoColor=white) 
