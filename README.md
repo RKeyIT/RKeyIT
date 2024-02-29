@@ -7,6 +7,7 @@
 I've come to Poland to change my life and for making :dollar: 
 
 So, the first part is done, and the second one is in progress...
+Connect with me :raised_hands:, and together we'll make this world :earth_americas: better 
 
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rkey/)
@@ -32,6 +33,3 @@ So, the first part is done, and the second one is in progress...
 > ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 > ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 
 > ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
-## 📊 GitHub Stats:
-
