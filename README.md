@@ -8,7 +8,8 @@ I've come to Poland to change my life and for making :dollar:
 
 So, the first part is done, and the second one is in progress...
 
-> [!TIP] Connect with me, and together we'll make this world better.
+> [!TIP] 
+> Connect with me :raised_hands:, and together we'll make this world :earth_americas: better 
 
 ---
 > [!NOTE]
@@ -20,8 +21,8 @@ So, the first part is done, and the second one is in progress...
 ![](https://visitcount.itsvg.in/api?id=RKeyIT&icon=5&color=3)
 ---
 
-> [!IMPORTANT] My Tech Stack:
->
+> [!IMPORTANT] 
+> ## :computer: My Tech Stack:
 > ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 > ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 > ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
