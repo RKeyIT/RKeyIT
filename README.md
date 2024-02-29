@@ -7,6 +7,6 @@
     }
 </style>
 
-<section class="container">
-<h1>👋 Hi you! It's nice to see you here!</h1>
-</section>
+<div class="container">
+    <h1>👋 Hi you! It's nice to see you here!</h1>
+</div>
