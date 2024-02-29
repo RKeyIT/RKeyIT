@@ -1,12 +1,12 @@
 <!-- Greetings -->
 <h1 align="center">👋 Hi you! It's nice to see you here!</h1>
 
+>[!IMPORTANT]
+Feel free to get in touch with me by following the badges below. Who knows, maybe I'm waiting for your message exactly :wink:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rkey/)
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/iRKey)
 ![](https://visitcount.itsvg.in/api?id=RKeyIT&icon=5&color=3)
-
->[!IMPORTANT]
-Feel free to get in touch with me by following the badges below. Who knows, maybe I'm waiting for your message exactly :wink:
 ---
 
 <h2>Some visual info about me:</h2>
