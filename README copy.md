@@ -8,12 +8,17 @@ I've come to Poland to change my life and for making :dollar:
 
 So, the first part is done, and the second one is in progress...
 
+> [!TIP] 
+> Connect with me :raised_hands:, and together we'll make this world :earth_americas: better 
+
 ---
+> [!NOTE]
+> - :computer: I’m currently working on [Quiz](https://main--quizztron.netlify.app/) app (check out the [repository](https://github.com/RKeyIT/React_01.24))
+> - :briefcase: I’m looking for cool opportunity 
+> - :scroll: Look my CV (CV link in progress)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rkey/)
 ![](https://visitcount.itsvg.in/api?id=RKeyIT&icon=5&color=3)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RKeyIT&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=RKeyIT&theme=dark&hide_border=false)
 ---
 
 > [!IMPORTANT] 
@@ -34,4 +39,5 @@ So, the first part is done, and the second one is in progress...
 > ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ## 📊 GitHub Stats:
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RKeyIT&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=RKeyIT&theme=dark&hide_border=false)<br/>
